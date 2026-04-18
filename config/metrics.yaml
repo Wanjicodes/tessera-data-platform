@@ -22,7 +22,7 @@ metrics:
 
   - name: on_time_performance_rate
     display_name: On-Time Performance Rate
-    owner: operations-analytics
+    owner: wanjiru-ndungu
     description: >
       Percentage of flights that departed within 15 minutes of scheduled departure time.
       Industry standard OTP definition. Excludes cancelled flights from denominator.
@@ -37,7 +37,7 @@ metrics:
 
   - name: average_delay_minutes
     display_name: Average Departure Delay
-    owner: operations-analytics
+    owner: wanjiru-ndungu
     description: >
       Mean departure delay in minutes across all delayed flights (delay > 0).
       Excludes on-time flights to measure severity of delays, not frequency.
@@ -52,7 +52,7 @@ metrics:
 
   - name: delay_attribution_rate
     display_name: Carrier-Caused Delay Rate
-    owner: operations-analytics
+    owner: wanjiru-ndungu
     description: >
       Percentage of total delay minutes attributable to carrier (airline) causes
       vs external causes (weather, ATC, security). Used for operational accountability.
@@ -67,7 +67,7 @@ metrics:
 
   - name: route_coverage_completeness
     display_name: Route Data Completeness
-    owner: data-platform
+    owner: wanjiru-ndungu
     description: >
       Percentage of active routes in the route master that have at least one
       operations record in the current reporting period. A data quality metric —

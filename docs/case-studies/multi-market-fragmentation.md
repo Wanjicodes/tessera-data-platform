@@ -60,4 +60,4 @@ The platform did not eliminate data quality problems upstream. It made them visi
 
 ---
 
-*This case study is anonymised. All client names, market identifiers, and commercially sensitive details have been removed.*
+*This case study is anonymised. All client names, market identifiers, and commercially sensitive details have been removed. Written by Wanjiru Ndung'u based on direct experience.*

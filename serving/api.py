@@ -24,10 +24,12 @@ from observability.lineage import LineageTracker
 logger = logging.getLogger(__name__)
 
 app = FastAPI(
-    title="Unified Data Platform API",
+    title="Unified Data Platform API — Wanjiru Ndung'u",
     description=(
         "Metric registry and lineage API for the unified data platform. "
-        "All metrics served here are registered, owned, versioned, and tested."
+        "Built by Wanjiru Ndung'u — Data Engineer. "
+        "All metrics served here are registered, owned, versioned, and tested. "
+        "github.com/Wanjicodes/unified-data-platform"
     ),
     version="1.0.0",
 )

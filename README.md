@@ -1,12 +1,15 @@
 # unified-data-platform
 
+> Built by **Wanjiru Ndung'u** — Data Engineer  
+> [LinkedIn](https://www.linkedin.com/in/junewanjirundungu/) · [GitHub](https://github.com/Wanjicodes)
+
 **A production-grade data engineering platform for hostile, fragmented, multi-source environments.**
 
 Most data engineering projects start with clean data. This one doesn't.
 
-This platform was designed around a real operational constraint: multiple enterprise clients, each with their own source systems, inconsistent field definitions, conflicting KPI logic, and no shared data infrastructure — all requiring trusted, decision-ready outputs simultaneously.
+This platform was designed around a real operational constraint I have worked with in practice: multiple enterprise clients, each with their own source systems, inconsistent field definitions, conflicting KPI logic, and no shared data infrastructure — all requiring trusted, decision-ready outputs simultaneously, across 12 markets.
 
-It is not a tutorial. It is not a demo. It is a reference architecture for engineers who need to build reliable data systems where the data environment itself is the primary challenge.
+It is not a tutorial. It is not a demo. It is a reference architecture built from genuine experience structuring messy source data, standardising metric logic, and building systems that make analysis trusted, reusable and decision-ready.
 
 ---
 
@@ -136,7 +139,7 @@ unified-data-platform/
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/unified-data-platform
+git clone https://github.com/Wanjicodes/unified-data-platform
 cd unified-data-platform
 
 # Install dependencies
@@ -186,6 +189,10 @@ See [`/docs/case-studies/`](docs/case-studies/) for anonymised write-ups of real
 
 ## Author
 
-Built by a data systems engineer with experience designing multi-market data infrastructure for enterprise clients across 12 markets in the Gulf region. Available for senior data engineering, data architecture, and platform roles in the UAE and Europe.
+**Wanjiru Ndung'u** — Data Engineer
 
-[LinkedIn](#) · [Email](#)
+I build scalable data systems, metric layers and decision infrastructure for enterprise analytics and applied data science. My work sits at the intersection of data engineering, analytics engineering and business problem-solving — structuring messy source data, designing reliable transformation workflows, improving data quality, standardising metric logic, and building systems that make analysis more trusted, reusable and decision-ready.
+
+Currently extending public proof in data engineering, analytics engineering, forecasting, experimentation and governance-minded data systems. Open to senior data engineering and analytics engineering roles in the UAE and Europe.
+
+[LinkedIn](https://www.linkedin.com/in/junewanjirundungu/) · [GitHub](https://github.com/Wanjicodes)
