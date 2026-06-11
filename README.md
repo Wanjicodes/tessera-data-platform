@@ -15,6 +15,14 @@ That is the problem this platform solves. Enterprise data does not arrive whole.
 
 `tessera` is a reference architecture for that assembly. It takes fragmented source data and produces something coherent enough to make decisions from.
 
+
+## Lineage
+
+![dbt lineage graph](docs/images/lineage-graph.png)
+
+*Full data flow from raw sources through staging, intermediate, and mart layers. Every model is tested, documented, and traceable.*
+
+
 ## What it does
 
 Five layers, each with a single responsibility.
